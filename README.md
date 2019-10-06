@@ -46,11 +46,6 @@ www -> app.js -> users.js ->  userDAO.js -> mysqlConf.js & userSqlMap.js
 前端技术
 - angular.js
 
-## 环境搭建
-
-- node.js: https://nodejs.org/en/download/package-manager/
-- mysql: https://dev.mysql.com/doc/refman/5.7/en/installing.html
-
 ## 项目运行
 
 1. 下载代码并部署
